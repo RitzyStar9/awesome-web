@@ -1,4 +1,4 @@
-# awesome-websites
+# awesome-web
 A sorted list of awesome websites. 
 ## Inspiration
 Howdy! Friends. Today I am going to share some awesome websites which I have found during my surfing journey over the vast Internet Ocean. As all you know we need to bookmark all those that we loved. So I am also.
