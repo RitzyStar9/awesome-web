@@ -1,5 +1,6 @@
 # awesome-websites
 A sorted list of awesome websites.
+Here I have added some web liks. Most of the links are important and some are for fun.
 * [https://www.ritzystar.com](https://www.ritzystar.com/) :Best Celebrity news, fashion, wiki and outfits updates. Entertainment destination for the amazing and stunning beauties of Hollywood, Bollywood, Tollywood, Bhojpuri, Bengali and Indian cinema including photoshoots, latest celebrity news, fashion updates, gossips, film reviews, film stills, magazine scans.
 * [https://www.sarojmeher.com](https://www.sarojmeher.com/) :Best Art & Craft for your beautiful Home. SAROJ MEHER - It is an art blog that inspirits your art on different field like watercolour art, oil painting, acrylic painting, sketch etc.
 * [https://www.sarojmeher.com/tools](https://www.sarojmeher.com/tools/) :DOWNLOADER TOOLS FOR ❤️ ALL. These tools are for developers to help them in their SEO works. These are free and easy to use. free online tools,html editor,css editor,currency conversion,age calculator,color picker,domain ip finder,source viewer,whois lookup,domain age finder,browser detector,operating system detector,alexa rank checker,number to word converter,upper to lower converter,lower to upper converter and more.
